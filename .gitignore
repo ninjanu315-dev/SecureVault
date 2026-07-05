@@ -1,1 +1,6 @@
+__pycache__/
+*.pyc
+venv/
 
+master.key
+vault.json
